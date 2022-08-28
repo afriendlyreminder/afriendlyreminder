@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afriendlyreminder
-- 👀 I’m interested in cloud native development
-- 🌱 I’m currently studying for the CKA
-- 💞️ I’m looking to collaborate on Kubernetes based projects
+- 👀 I’m interested in mutally assured development
+- 🌱 I’m currently studying dev0ps junk and CloudNative jargon
+- 💞️ I’m looking to collaborate on whatevers clever.
 - 📫 How to reach me friendlyreminders@protonmail.com
 
 <!---
